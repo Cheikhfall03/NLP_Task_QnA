@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-chroma
+chromadb==0.4.24
+protobuf==3.20.3
+opentelemetry-api==1.22.0
+opentelemetry-sdk==1.22.0
+transformers
+torch==2.1.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+pypdf
+nltk
+rouge-score
+
