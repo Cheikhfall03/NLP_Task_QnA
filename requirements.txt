@@ -1,0 +1,13 @@
+streamlit
+transformers
+langchain
+langchain-community
+langchain-core
+langchain-chroma
+pypdf
+nltk
+rouge-score
+torch
+rich==13.3.4
+markdown-it-py==2.2.0
+
