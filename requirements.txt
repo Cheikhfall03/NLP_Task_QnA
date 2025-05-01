@@ -1,0 +1,17 @@
+streamlit
+transformers
+langchain-community
+langchain-core
+pypdf
+nltk
+rouge-score
+torch
+rich==13.3.4
+markdown-it-py==2.2.0
+langchain-chroma==0.0.77
+chromadb==0.4.24
+protobuf==3.20.3
+langchain==0.3.24
+chromadb==0.4.24
+langchain-chroma==0.2.3
+
