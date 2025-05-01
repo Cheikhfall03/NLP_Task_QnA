@@ -1,0 +1,30 @@
+# Base
+streamlit
+langchain==0.1.14
+langchain-core==0.1.36
+langchain-community==0.0.31
+
+# Vector store
+langchain-chroma==0.1.0
+chromadb==0.4.24
+
+# Protobuf fix
+protobuf==3.20.3
+
+# OpenTelemetry (pour chromadb)
+opentelemetry-api==1.22.0
+opentelemetry-sdk==1.22.0
+
+# NLP
+transformers==4.37.2
+torch==2.1.0+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# PDF & NLP utils
+pypdf
+nltk
+rouge-score
+
+# Pour désactiver le mode compilé de protobuf (si nécessaire)
+python-dotenv
+
